@@ -1,16 +1,63 @@
-## Hi there 👋
+👋 Hi there! I'm Shahed Ahmed
 
-<!--
-**Shahed4/Shahed4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Computer Science Student | 💻 Aspiring Software Engineer
+📍 City College of New York
 
-Here are some ideas to get you started:
+I’m a passionate developer and problem-solver who loves creating impactful solutions, from backend architectures to machine learning models. My work bridges the gap between innovation and scalability, with projects ranging from AI-powered tools to award-winning hackathon solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 **Tech Stack**
+
+Languages: Python, JavaScript, TypeScript, Java, C++, SQL, HTML, CSS
+Frameworks/Libraries: React, Next.js, TensorFlow, Scikit-learn, Node.js, Cypress
+Tools: Git, Docker, Firebase, Arduino, Mongoose
+
+
+🌟 **Key Projects**
+
+**Auction Architects**
+Description: An e-commerce bidding platform for buying and selling cars, complete with role-based access.
+Features:
+- Buyers and VIP Buyers (granted exclusive car details).
+- Sellers manage listings seamlessly.
+- Integrated OpenAI chatbot for enhanced user experience.
+Tech Stack: Next.js, Auth0, MongoDB, OpenAI API
+
+**GreenScan**
+Description: A sustainability-focused web app with real-time object detection and AI-powered eco-friendly suggestions.
+Tech Stack: Next.js, TensorFlow.js, Auth0, OpenAI API
+Impact: Promotes sustainable item reuse and pollution reduction.
+
+**Maternisense**
+Description: Hackathon-winning project predicting fetal health with a 98% accurate machine learning model, integrated with sensor hardware.
+Tech Stack: Python, React, Firebase, ML algorithms
+Award: 1st Place at Pfizer’s Inaugural Digital Hackathon.
+
+**TheraCam**
+Description: A physical therapy app providing real-time exercise feedback using OpenPose.
+Tech Stack: React, Firebase, OpenCV
+Impact: Enables secure patient-physician collaboration for remote care.
+
+
+🏆 **Achievements**
+Winner: Pfizer’s Inaugural Digital Hackathon
+AI Studio Intern: Developed a machine learning model for loan fraud detection, optimizing its performance using advanced techniques.
+OpenGym Intern: Implemented a content-based filtering algorithm, improving recommendation relevance by 25%.
+
+
+🌱 **What I’m Working On**
+Collaborating with JP Morgan Chase & Co. to optimize machine learning models for fraud detection.
+Diving deeper into backend development and AI model optimization.
+
+
+🎯 **Interests & Hobbies**
+Beyond coding, you’ll find me:
+♟️ Mastering chess strategies
+🏋️‍♂️ Challenging myself at the gym
+🤖 Exploring cutting-edge AI innovations
+
+
+📫 **Let’s Connect!**
+[LinkedIn](https://www.linkedin.com/in/shahed-ahmed1/)
+
+Email: ShahedAhmedx1@gmail.com
