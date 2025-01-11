@@ -1,9 +1,15 @@
 👋 Hi there! I'm Shahed Ahmed
 
-🎓 Junior Computer Science Student | 💻 Aspiring Software Engineer
-📍 City College of New York
+- 🎓 Junior Computer Science Student
+- 💻 Aspiring Software Engineer
+- 📍 City College of New York
 
 I’m a passionate developer and problem-solver who loves creating impactful solutions, from backend architectures to machine learning models. My work bridges the gap between innovation and scalability, with projects ranging from AI-powered tools to award-winning hackathon solutions.
+
+📫 **Let’s Connect!**
+[LinkedIn](https://www.linkedin.com/in/shahed-ahmed1/)
+
+Email: ShahedAhmedx1@gmail.com
 
 
 💻 **Tech Stack**
@@ -17,10 +23,6 @@ Tools: Git, Docker, Firebase, Arduino, Mongoose
 
 **Auction Architects**
 Description: An e-commerce bidding platform for buying and selling cars, complete with role-based access.
-Features:
-- Buyers and VIP Buyers (granted exclusive car details).
-- Sellers manage listings seamlessly.
-- Integrated OpenAI chatbot for enhanced user experience.
 Tech Stack: Next.js, Auth0, MongoDB, OpenAI API
 
 **GreenScan**
@@ -51,13 +53,6 @@ Diving deeper into backend development and AI model optimization.
 
 
 🎯 **Interests & Hobbies**
-Beyond coding, you’ll find me:
-♟️ Mastering chess strategies
-🏋️‍♂️ Challenging myself at the gym
-🤖 Exploring cutting-edge AI innovations
-
-
-📫 **Let’s Connect!**
-[LinkedIn](https://www.linkedin.com/in/shahed-ahmed1/)
-
-Email: ShahedAhmedx1@gmail.com
+- ♟️ Mastering chess strategies
+- 🏋️‍♂️ Challenging myself at the gym
+- 🤖 Exploring cutting-edge AI innovations
