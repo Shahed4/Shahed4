@@ -21,6 +21,11 @@ Tools: Git, Docker, Firebase, Arduino, Mongoose
 
 ## 🌟 **Key Projects**
 
+### **[Equitable AI for Dermatology](https://github.com/Shahed4/AJL-Team-SPF)**
+Description: Developed an inclusive AI model to classify 21 skin conditions across diverse skin tones, addressing bias in dermatology. Used data augmentation, transfer learning, and fairness analysis (Fairlearn) to improve model performance for all demographics.
+
+Impact: Contributed to more equitable healthcare AI by improving diagnostic accuracy across underrepresented skin tones.
+
 ### **[Auction Architects](https://github.com/Shahed4/AuctionArchitects)**
 Description: An e-commerce bidding platform for buying and selling cars, complete with role-based access.
 
