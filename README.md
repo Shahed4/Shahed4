@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Shahed Ahmed
-- 🎓 Junior Computer Science Student
+- 🎓 Senior Computer Science Student
 - 💻 Aspiring Software Engineer
 - 📍 City College of New York
 
